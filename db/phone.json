@@ -1,0 +1,44 @@
+[
+  {
+    "id": "tn01",
+    "name": "Samsung Galaxy S21 Ultra 12/128GB ",
+    "description": "Екран: 6,8  Dynamic AMOLED 2X • 1440x3200 • вбудована пам'ять: 128 ГБ • оперативна пам'ять: 12 ГБ • процесор: Samsung Exynos 2100",
+    "price": 31455,
+    "image": "img/phone/samsung.jpeg"
+  },
+  {
+    "id": "tn02",
+    "name": "Xiaomi Redmi Note 10 4/64GB Onyx Gray",
+    "description": "Eкран: 6,43 • AMOLED • 2400x1080 • вбудована пам'ять: 64 ГБ • оперативна пам'ять: 4 ГБ • процесор: Qualcomm Snapdragon 678",
+    "price": 6499,
+    "image": "img/phone/Xiaomi.jpeg"
+  },
+  {
+    "id": "tn03",
+    "name": "Apple iPhone 11 64GB Black",
+    "description": "Eкран: 6,1 • IPS • 1792x828 • вбудована пам'ять: 64 ГБ • оперативна пам'ять: 4 ГБ • процесор: Apple A13 Bionic ",
+    "price": 17500,
+    "image": "img/phone/iphone.jpeg"
+  },
+  {
+    "id": "tn04",
+    "name": "Sony Xperia 1 II XQ-AT52 8/256GB Purple",
+    "description": "Екран: 6,5 • OLED • 3840x1644 • вбудована пам'ять: 256 ГБ • оперативна пам'ять: 8 ГБ • процесор: Qualcomm Snapdragon 865",
+    "price": 11841,
+    "image": "img/phone/sony.jpeg"
+  },
+  {
+    "id": "tn05",
+    "name": "Google Pixel 4a 6/128GB Just Black",
+    "description": "Eкран: 5,81 • OLED • 1080x2340 • вбудована пам'ять: 128 ГБ • оперативна пам'ять: 6 ГБ • процесор: Qualcomm Snapdragon 730",
+    "price": 24990,
+    "image": "img/phone/google.jpeg"
+  },
+  {
+    "id": "tn06",
+    "name": "OnePlus 9 Pro 8/256GB Pine Green",
+    "description": "Eкран: 6,7 • LTPO Fluid2 AMOLED • 1440x3216 • вбудована пам'ять: 256 ГБ • оперативна пам'ять: 8 ГБ • процесор: Qualcomm Snapdragon 888",
+    "price": 29790,
+    "image": "img/phone/OnePlus.jpeg"
+  }
+]

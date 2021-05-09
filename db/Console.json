@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pb01",
+    "name": "Sony PlayStation 5 Digital Edition 825GB",
+    "description": "Стаціонарна ігрова приставка • контролер: Sony DualSense • обсяг пам'яті: 825 ГБ • колір:білий",
+    "price": 13699,
+    "image": "img/consoles/ps5.jpeg"
+  },
+  {
+    "id": "pb02",
+    "name": "Microsoft Xbox Series X 1TB",
+    "description": "Стаціонарна ігрова приставка • контролер: Xbox Wireless Controller • обсяг пам'яті: 1000 ГБ • колір:чорний",
+    "price": 17899,
+    "image": "img/consoles/xboxonex.jpeg"
+  },
+  {
+    "id": "pb03",
+    "name": "Microsoft Xbox Series S 512GB",
+    "description": "Стаціонарна ігрова приставка • контролер: Xbox Wireless Controller • обсяг пам'яті: 512 ГБ • колір:білий",
+    "price": 9475,
+    "image": "img/consoles/xboxones.jpeg"
+  },
+  {
+    "id": "pb04",
+    "name": "Sony PlayStation 4 Pro ",
+    "description": "Стаціонарна ігрова приставка • контролер: Sony DualShock 4 v2 • обсяг пам'яті: 1000 ГБ • колір:чорний",
+    "price": 13999,
+    "image": "img/consoles/ps4pro.jpeg"
+  },
+  {
+    "id": "pb05",
+    "name": "Nintendo Switch with Neon Blue and Neon Red Joy-Con",
+    "description": "Портативна ігрова приставка • контролер: Nintendo Joy-Con • обсяг пам'яті: 32 ГБ • колір:чорний",
+    "price": 12535,
+    "image": "img/consoles/nintendo.jpeg"
+  },
+  {
+    "id": "pb06",
+    "name": "Sony PlayStation Classic",
+    "description": "Стаціонарна ігрова приставка • контролер: + (2х) • гра в комплекті: + (20) • колір:сірий",
+    "price": 2899,
+    "image": "img/consoles/classic.jpeg"
+  }
+]

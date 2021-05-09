@@ -1,0 +1,44 @@
+[
+  {
+    "id": "gl01",
+    "name": "HUAWEI MatePad T10s 3/64GB Wi-Fi Deepsea Blue",
+    "description": "10,1 • IPS • 1920 x 1200 • HUAWEI Kirin 710A • 2.0 ГГц • ОЗП: 3 ГБ • Flash: 64 ГБ • ОС: Android 10",
+    "price": 4890,
+    "image": "img/tablet/Huaweo.jpeg"
+  },
+  {
+    "id": "gl02",
+    "name": "Samsung Galaxy Tab A7 10.4 2020 T500 3/32GB Wi-Fi Dark Gray",
+    "description": "10.4 • TFT • 2000 x 1200 • Snapdragon 662 • 2,0 ГГц • ОЗП: 3 ГБ • Flash: 32 ГБ • ОС: Android 10.",
+    "price": 5174,
+    "image": "img/tablet/samsung.jpeg"
+  },
+  {
+    "id": "gl03",
+    "name": "Apple iPad Air 2020 Wi-Fi 64GB Space Gray",
+    "description": "10,9 • IPS • 2360x1640 • Apple A14 Bionic • Flash: 64 ГБ • ОС: iPadOS 14",
+    "price": 15932,
+    "image": "img/tablet/apple.jpeg"
+  },
+  {
+    "id": "gl04",
+    "name": "Lenovo Yoga Smart Tab Wi-Fi 4/64Gb Iron Grey",
+    "description": "10,1 • IPS  • 1920х1200 • Qualcomm Snapdragon 439 • 2 ГГц • ОЗП: 4 ГБ • Flash: 64 ГБ • ОС: Android 9.0 Pie",
+    "price": 6990,
+    "image": "img/tablet/lenovo.jpeg"
+  },
+  {
+    "id": "gl05",
+    "name": "Blackview Tab 8 4/64GB LTE Grey",
+    "description": "10.1 • IPS • 1920 x 1200 • Spreadtrum SC9863A • 1,6 + 1,2 ГГц • ОЗП: 4 ГБ • Flash: 64 ГБ • ОС: Android 10.",
+    "price": 3900,
+    "image": "img/tablet/blackview.jpeg"
+  },
+  {
+    "id": "gl06",
+    "name": "Pixus Joker 4/64GB LTE Black",
+    "description": "10,1 • IPS  • 1920x1200 • MediaTek Helio P22 • 2 ГГц • ОЗП: 4 ГБ • Flash: 64 ГБ • ОС: Android 9.0",
+    "price": 5122,
+    "image": "img/tablet/Pixus.jpeg"
+  }
+]

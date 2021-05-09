@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Ноутбуки",
+    "time_of_delivery": 50,
+    "stars": 4.5,
+    "price": 9199,
+    "kitchen": "Ноутбук",
+    "image": "img/notebooks/acer.jpg",
+    "products": "Notebooks.json"
+  },
+  {
+    "name": "Телефони",
+    "time_of_delivery": 60,
+    "stars": 4.3,
+    "price": 6499,
+    "kitchen": "Телефони",
+    "image": "img/phone/iphone.jpeg",
+    "products": "phone.json"
+  },
+  {
+    "name": "Телевізори",
+    "time_of_delivery": 40,
+    "stars": 4.4,
+    "price": 4099,
+    "kitchen": "Телевізори",
+    "image": "img/tv/Xiaomi.jpeg",
+    "products": "tv.json"
+  },
+  {
+    "name": "Комлпектуючі",
+    "time_of_delivery": 55,
+    "stars": 4.1,
+    "price": 699,
+    "kitchen": "Комплектуючі",
+    "image": "img/videocard/Gigabyte.jpeg",
+    "products": "videocard.json"
+  },
+  {
+    "name": "Планшети",
+    "time_of_delivery": 75,
+    "stars": 4.7,
+    "price": 3900,
+    "kitchen": "Планшети",
+    "image": "img/tablet/Huaweo.jpeg",
+    "products": "Tablet.json"
+  },
+  {
+    "name": "Ігрові консолі",
+    "time_of_delivery": 45,
+    "stars": 4.6,
+    "price": 2899,
+    "kitchen": "Консоль",
+    "image": "img/consoles/ps5.jpeg",
+    "products": "Console.json"
+  }
+]
