@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pp01",
+    "name": "GIGABYTE GeForce GTX 1660 Super 6GB OC",
+    "description": "NVIDIA GeForce GTX 1660 Super • частота GPU: 1830 МГц • GDDR6 • 6 ГБ • частота пам'яті: 14000 МГц • шина: 192 біт",
+    "price": 19799,
+    "image": "/img/videocard/Gigabyte.png"
+  },
+  {
+    "id": "ps02",
+    "name": "MSI GeForce RTX 3060 GAMING",
+    "description": "NVIDIA GeForce RTX 3060 • частота GPU: 1837 (Boost) МГц • GDDR6 • 12 ГБ • частота пам'яті: 15000 МГц • шина: 192 біт",
+    "price": 31892,
+    "image": "img/videocard/MSI.png"
+  },
+  {
+    "id": "ps03",
+    "name": "ASUS PH-GTX1660S-6G",
+    "description": "Сыр моцарелла, соус томатный, курица, пепперони, перец болгарскNVIDIA GeForce GTX 1660 SUPER • частота GPU: 1815 МГц • GDDR6 • 6 ГБ • частота пам'яті: 14002 МГц • шина: 192 біт",
+    "price": 20976,
+    "image": "img/videocard/ASUS.png"
+  },
+  {
+    "id": "ps04",
+    "name": "Sapphire Radeon RX 6700 XT 12 GB NITRO",
+    "description": "Відеокарта • AMD Radeon Radeon RX 6700 XT • частота GPU: +2622 (Boost) МГц • GDDR6 • 12 ГБ • частота пам'яті: 16000 МГц • шина: 192 біт",
+    "price": 10499,
+    "image": "img/videocard/sapphire.png"
+  },
+  {
+    "id": "ps05",
+    "name": "PNY GeForce GTX 1650 SUPER Single Fan",
+    "description": "NVIDIA GeForce GTX 1650 Super • частота GPU: 1530 (Boost - 1725) МГц • GDDR6 • 4 ГБ • частота пам'яті: 12000 МГц • шина: 128 біт",
+    "price": 10499,
+    "image": "img/videocard/PNY.png"
+  },
+  {
+    "id": "ps06",
+    "name": "PowerColor Radeon RX 6900 XT Red Devil",
+    "description": "AMD Radeon RX 6900 XT • частота GPU: 2340 (Boost) МГц • GDDR6 • 16 ГБ • частота пам'яті: 16000 МГц • шина: 256 біт",
+    "price": 56499,
+    "image": "img/videocard/powercolor.png"
+  }
+]

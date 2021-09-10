@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pp01",
+    "name": "Ноутбук Acer Aspire 5 A5146",
+    "description": "Екран 15.6 RAM 8 ГБ SSD 512 ГБ nVidia GeForce MX350.",
+    "price": 18900,
+    "image": "img/notebooks/acer.png"
+  },
+  {
+    "id": "pp02",
+    "name": "Ноутбук Asus ROG Strix 1511",
+    "description": "Екран 15.6 RAM 8 ГБ SSD 512 ГБ nVidia GeForce GTX 1650 TI",
+    "price": 18999,
+    "image": "img/notebooks/asus.png"
+  },
+  {
+    "id": "pp03",
+    "name": "Ноутбук Lenovo V15-ADA",
+    "description": "Екран 15.6 RAM 4 ГБ SSD 128 ГБ AMD Radeon Graphics",
+    "price": 9999,
+    "image": "img/notebooks/lenovo1.png"
+  },
+  {
+    "id": "pp05",
+    "name": "HP Pavilion Gaming Laptop 15",
+    "description": "Экран 15.6AMD Ryzen 5 4600H (3.0 - 4.0 ГГц) / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce GTX 1050",
+    "price": 23499,
+    "image": "img/notebooks/hp.png"
+  },
+  {
+    "id": "pp04",
+    "name": "Lenovo IdeaPad S145-15API",
+    "description": "Экран 15.6 AMD 3020e RAM 4 ГБ  SSD 128 ГБ  AMD Radeon Graphics ",
+    "price": 9199,
+    "image": "img/notebooks/lenovo.png"
+  },
+  {
+    "id": "pp06",
+    "name": "Apple MacBook Pro 13 M1 ",
+    "description": "Экран 13.3 / Apple M1 / RAM 16 ГБ / SSD 512 ГБ / Apple M1 Graphics ",
+    "price": 62999,
+    "image": "img/notebooks/apple.png"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "fb01",
+    "name": "Xiaomi Mi TV UHD 4S 43",
+    "description": "LCD телевізор (LED) • діагональ екрану: 43 • роздільна здатність 3840x2160 • Smart TV",
+    "price": 8999,
+    "image": "img/tv/Xiaomi.png"
+  },
+  {
+    "id": "fb02",
+    "name": "Samsung QE55Q80T",
+    "description": "Qled телевізор • діагональ екрану: 55 • роздільна здатність: 3840x2160 • тюнер аналоговий/цифровий: DVB-T2, DVB-S2, DVB-C • Smart TV: Samsung Smart TV",
+    "price": 26684,
+    "image": "img/tv/samsung.png"
+  },
+  {
+    "id": "fb03",
+    "name": "LG OLED55CX",
+    "description": "діагональ екрану: 55 • роздільна здатність: 3840x2160  • частота: 100 Гц • тюнер аналоговий/цифровий: DVB-T2, DVB-S2, DVB-C • Smart TV: LG Smart TV",
+    "price": 33599,
+    "image": "img/tv/lg.png"
+  },
+  {
+    "id": "fb04",
+    "name": "KIVI 32F710KW",
+    "description": "діагональ екрану: 32 • роздільна здатність: 1920x1080 • тюнер аналоговий/цифровий: є • Smart TV: Google ATV",
+    "price": 5899,
+    "image": "img/tv/kivi.png"
+  },
+  {
+    "id": "fb05",
+    "name": "Toshiba 32S2855EC",
+    "description": "діагональ екрану: 32 • роздільна здатність: 1366x768 • частота: 60 Гц • тюнер аналоговий/цифровий",
+    "price": 4099,
+    "image": "img/tv/toshiba.png"
+  },
+  {
+    "id": "fb06",
+    "name": "Philips 43PUS8505",
+    "description": "Сдіагональ екрану: 43 • роздільна здатність: 3840x2160  • тюнер аналоговий/цифровий",
+    "price": 13899,
+    "image": "img/tv/Philips.png"
+  }
+]
